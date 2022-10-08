@@ -1,1 +1,3 @@
 Łukasz jest na kursie ALX zmiana
+
+zmiany w visual studio code
